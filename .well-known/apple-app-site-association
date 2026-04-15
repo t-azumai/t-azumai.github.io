@@ -1,8 +1,22 @@
 {
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "83XL2ADQ4F.com.navipark1.app"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
+      }
+    ]
+  },
   "webcredentials": {
     "apps": [
-      "6RPWBN8GYZ.com.daiwa.dev",
-      "6RPWBN8GYZ.com.daiwa.stg"
+      "83XL2ADQ4F.com.navipark1.app"
     ]
   }
 }
