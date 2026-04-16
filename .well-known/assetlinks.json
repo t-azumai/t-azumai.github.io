@@ -5,11 +5,36 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.navipark1.app",
+      "package_name": "com.sonicmoov.ucc.coffeecreation",
       "sha256_cert_fingerprints": [
-        "B8:F3:B4:C8:67:0B:5E:AD:03:D4:7D:A7:49:F3:50:17:A3:15:26:F6:19:97:E4:C6:D7:89:43:91:85:C5:AD:19",
-        "3D:4A:17:D0:9E:20:E3:10:EA:71:81:FD:DD:CE:24:97:AF:B9:0F:89:B0:12:06:58:D3:7B:24:8F:B6:69:FE:15",
-        "79:0C:F0:A2:BF:D6:EA:2F:86:7C:4D:51:75:FB:D2:64:02:3F:46:54:A9:0E:97:A4:1B:A6:00:36:90:69:2F:FF"
+        "E6:19:7F:CE:3D:28:BD:AB:DE:79:FE:9A:52:A8:86:25:B0:EC:E7:6F:59:78:32:C4:6A:FA:81:3D:F1:70:AB:EF",
+        "C8:03:EB:C0:DE:D7:CC:9D:61:48:DD:C8:A6:23:3B:01:C7:BA:7C:BB:4E:8E:22:95:75:18:56:F5:51:F1:D2:6A"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sonicmoov.ucc.coffeecreation.dev",
+      "sha256_cert_fingerprints": [
+        "E6:19:7F:CE:3D:28:BD:AB:DE:79:FE:9A:52:A8:86:25:B0:EC:E7:6F:59:78:32:C4:6A:FA:81:3D:F1:70:AB:EF",
+        "C8:03:EB:C0:DE:D7:CC:9D:61:48:DD:C8:A6:23:3B:01:C7:BA:7C:BB:4E:8E:22:95:75:18:56:F5:51:F1:D2:6A"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "jp.co.ucc.coffeecreation.dev",
+      "sha256_cert_fingerprints": [
+        "E6:19:7F:CE:3D:28:BD:AB:DE:79:FE:9A:52:A8:86:25:B0:EC:E7:6F:59:78:32:C4:6A:FA:81:3D:F1:70:AB:EF",
+        "C8:03:EB:C0:DE:D7:CC:9D:61:48:DD:C8:A6:23:3B:01:C7:BA:7C:BB:4E:8E:22:95:75:18:56:F5:51:F1:D2:6A"
       ]
     }
   }

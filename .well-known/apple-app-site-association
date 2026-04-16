@@ -3,20 +3,23 @@
     "apps": [],
     "details": [
       {
-        "appIDs": [
-          "83XL2ADQ4F.com.navipark1.app"
-        ],
-        "components": [
-          {
-            "/": "/*"
-          }
+        "appID": "35848628QY.com.sonicmoov.ucc.coffeecreation",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "35848628QY.com.sonicmoov.ucc.coffeecreation.dev",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "K678VVN63G.jp.co.ucc.coffeecreation.dev",
+        "paths": [
+          "*"
         ]
       }
-    ]
-  },
-  "webcredentials": {
-    "apps": [
-      "83XL2ADQ4F.com.navipark1.app"
     ]
   }
 }
